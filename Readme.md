@@ -2,7 +2,7 @@
 
 This repository contains the data and code for Coblentz, K.E., L. Yang, A. Dalal, M. Incarnato, D. Thilakarathne, C. Shaw, R. Wilson,
 F. Biagioli, K.L. Montooth, and J.P. DeLong. 2024. Heritable intraspecific variation among prey in size and movement interact to shape
-predation risk and potential natural selection. Function Ecology.
+predation risk and potential natural selection. Functional Ecology.
 
 ### Data
 
